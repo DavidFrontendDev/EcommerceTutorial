@@ -39,7 +39,7 @@ function Header() {
                       <td>
                         <img
                           className="img-fluid"
-                          src=".img/guitarra_02.jpg"
+                          src="/img/guitarra_02.jpg"
                           alt="imagen guitarra"
                         />
                       </td>
